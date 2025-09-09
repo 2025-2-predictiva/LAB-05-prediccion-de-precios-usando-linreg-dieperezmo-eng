@@ -1,0 +1,4 @@
+ipykernel
+pandas
+pytest
+scikit-learn
